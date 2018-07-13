@@ -1,6 +1,6 @@
-# NgApplication angular5-boilerplate
+# NgApplication angular6-boilerplate
 
-An angular5 boilerplate ready to sniff 
+An angular6 boilerplate ready to sniff 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
 
